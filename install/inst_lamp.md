@@ -36,4 +36,4 @@
 ###（出現下圖代表lamp已安裝成功）
 ![](../img/inst_part1/part1_8.png)
 
-###接著請跳下一章＞[安裝 phpmyadmin](inst_phpmyadm.md)
+###接著請跳下一章＞[安裝 phpmyadmin](../install/inst_phpmyadm.md)
