@@ -1,4 +1,4 @@
-My Awesome Book
-=======
+### **本次教學採用的環境**
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+虛擬機：VirtualBox 版本 5.0.10
+做業系統：ubuntu-14.04.3-server-amd64
