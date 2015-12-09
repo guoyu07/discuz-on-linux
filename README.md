@@ -13,3 +13,5 @@
 ### 1. putty（為了從外部 Windows 連進 server）
 
 ### 2. pscp（Windows 與 Linux 間檔案傳輸）
+
+### 3. Google Chrome 瀏覽器
