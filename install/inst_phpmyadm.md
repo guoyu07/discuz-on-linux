@@ -28,7 +28,7 @@
 
 ### 9. 將要設定的phpmyadmin設定內容貼上(右鍵)並儲存(:wq)
 ##```設定內容：Include /etc/phpmyadmin/apache.conf```
-##```(I)→(Enter)→(右鍵)→(Esc)→(:wq)```
+##```插入(I)→空行(Enter)→貼上(右鍵)→離開編輯模式(Esc)→儲存並離開(:wq)```
 ![](../img/inst_part2/part2_9.png)
 
 ### 10. 重新啟動apache（為了讓apache讀取剛剛修改的內容）
