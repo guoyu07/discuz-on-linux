@@ -1,11 +1,11 @@
 # **安裝lamp-server**
 
 
-### 1. 確認網路狀態
+### 1. 確認網路狀態（ping不到google請檢查網路設定）
 ## ```ping -c 3 www.google.com```
 ![](img/p1_1.png)
 
-### 2. 安裝ssh
+### 2. 安裝ssh（為了在虛擬機以外的機器進行操作）
 ## ```sudo apt-get install ssh```
 ![](img/p1_2.png)
 
@@ -21,7 +21,7 @@
 
 ![](img/p1_5.png)
 
-### 6. 安裝lamp
+### 6. 安裝lamp-server
 ## ```sudo tasksel install lamp-server```
 
 ### 7. 輸入Mysql的root密碼
@@ -37,4 +37,4 @@
 ###（出現下圖代表lamp已安裝成功）
 ![](img/p1_9.png)
 
-###節著請跳下一章 安裝phpmyadmin
+###接著請跳下一章：安裝phpmyadmin
