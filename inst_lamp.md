@@ -37,4 +37,4 @@
 ###（出現下圖代表lamp已安裝成功）
 ![](img/p1_9.png)
 
-###接著請跳下一章：安裝phpmyadmin
+###接著請跳下一章＞安裝phpmyadmin
