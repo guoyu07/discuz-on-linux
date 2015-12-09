@@ -1,7 +1,7 @@
 # **安裝lamp & phpmyadmin**
 
 
-### 1. 確認網路狀態
+1. 確認網路狀態
 
 ## ```ping -c 3 www.google.com```
 
