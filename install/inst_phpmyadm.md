@@ -10,7 +10,7 @@
 ### 3. 選擇Yes
 ![](../img/inst_part2/part2_3.png)
 
-### 4. 輸入在[安裝lamp-server時(3.)Mysql的root密碼]
+### 4. 輸入在[安裝lamp-server時(7.)Mysql的root密碼]
 ![](../img/inst_part2/part2_4.png)
 
 ### 5. 再次輸入Mysql的root密碼
