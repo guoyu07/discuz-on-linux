@@ -14,5 +14,5 @@
 
 ## ```ifconfig eth1```
 
-
+### 4. 從開啟 putty
 
