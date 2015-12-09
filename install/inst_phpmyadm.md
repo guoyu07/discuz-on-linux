@@ -43,7 +43,7 @@
 ###（出現下圖代表phpmyadmin已安裝成功）
 ![](../img/inst_part2/part2_11.png)
 
-###接著請跳下一章＞[安裝 Discuz](../install/inst_discuz.md)
+###接著請跳下一章＞安裝 Discuz
 
 ####參考資料：
 
