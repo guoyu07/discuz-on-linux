@@ -10,6 +10,6 @@
 
 # **使用工具**
 
-### 1. putty（為了從外部連進server）
+### 1. putty（為了從外部 Windows 連進 server）
 
 ### 2. pscp（Windows 與 Linux 間檔案傳輸）
