@@ -22,4 +22,4 @@
 ![](img/p1_5.png)
 
 ### 6. 安裝lamp
-## ```sudo tasksel install lampserver```
+## ```sudo tasksel install lamp-server```
