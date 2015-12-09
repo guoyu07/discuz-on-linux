@@ -4,13 +4,13 @@
 
 ### 1. 確認網路狀態
 
-
 ## ```ping www.google.com```
 
+### 2. 安裝openssh
 
-![](擷圖_2015-12-09_190349.png)
+## ```sudo apt-get install ssh```
 
 
-### 2. 
+
 
 
