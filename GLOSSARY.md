@@ -1,17 +1,21 @@
 # Glossary
 
-## VirtualBox
+## pscp
 
-https://www.virtualbox.org/wiki/Downloads
-
-## ubuntu
-
-http://www.ubuntu-tw.org/modules/tinyd0/
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 
 ## putty
 
 http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 
-## pscp
+## ubuntu
 
-http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+http://www.ubuntu-tw.org/modules/tinyd0/
+
+## VirtualBox
+
+https://www.virtualbox.org/wiki/Downloads
+
+## Discuz
+
+http://www.discuz.net/forum-10-1.html
