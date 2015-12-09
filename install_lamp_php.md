@@ -5,6 +5,7 @@
 
 ## ```ping -c 3 www.google.com```
 
+
 ### 2. 安裝 openssh
 
 ## ```sudo apt-get install openssh```
