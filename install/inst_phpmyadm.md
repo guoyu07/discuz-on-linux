@@ -29,8 +29,8 @@
 ##```sudo vim /etc/apache2/apache2.conf```
 ![](../img/inst_part2/part2_8.png)
 
-### 10. 將要設定的phpmyadmin設定檔路徑貼上(右鍵)並儲存(:wq)
-##```設定檔路徑```
+### 10. 將要設定的phpmyadmin設定內容貼上(右鍵)並儲存(:wq)
+##```設定內容：Include /etc/phpmyadmin/apache.conf```
 ##```(Enter)→(右鍵)→(Esc)→(:wq)```
 ![](../img/inst_part2/part2_9.png)
 
