@@ -19,6 +19,9 @@
 ### 6. 最後再次輸入確認Mysql的root密碼
 ![](../img/inst_part2/part2_6.png)
 
-### 7. 安裝完成後，從本機開啟瀏覽器進入自己從[安裝lamp-server(3.)取得的虛擬機的IP]/phpmyadmin，即可進入phpmyadmin
+### 7. 最後再次輸入確認Mysql的root密碼
+![](../img/inst_part2/part2_6.png)
+
+### 8. 安裝完成後，從本機開啟瀏覽器進入(虛擬機IP/phpmyadmin)，即可進入phpmyadmin
 ###（出現下圖代表phpmyadmin已安裝成功）
 ![](../img/inst_part2/part2_7.png)
