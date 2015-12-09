@@ -31,7 +31,12 @@
 
 ### 10. 將要設定的phpmyadmin設定檔貼上(右鍵)並儲存(:wq)
 ##```(Enter)→(右鍵)→(Esc)→(:wq)```
-![](../img/inst_part2/part2_8.png)
+![](../img/inst_part2/part2_9.png)
+
+### 11. 重新啟動apache（為了讓apache讀取剛剛修改的內容）
+##```sudo service apache2 restart```
+![](../img/inst_part2/part2_10.png)
+
 
 ### 1. 安裝完成後，從本機開啟瀏覽器進入(虛擬機IP/phpmyadmin)，會出現Not Found
 ![](../img/inst_part2/part2_.png)
