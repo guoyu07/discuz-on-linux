@@ -2,12 +2,10 @@
 
 
 ### 1. 確認網路狀態
-
 ## ```ping -c 3 www.google.com```
 ![](img/p1_1.png)
 
 ### 2. 安裝ssh
-
 ## ```sudo apt-get install ssh```
 ![](img/p1_2.png)
 
@@ -22,3 +20,6 @@
 ### 5. 登入後將VirtualBox的視窗縮小，用putty操作比較方便
 
 ![](img/p1_5.png)
+
+### 6. 安裝lamp
+## ```sudo tasksel install lampserver```
