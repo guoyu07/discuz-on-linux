@@ -6,16 +6,17 @@
 ## ```ping -c 3 www.google.com```
 ![](img/p1_1.png)
 
-### 2. 安裝 openssh
+### 2. 安裝ssh
 
-## ```sudo apt-get install openssh```
-
-### 3. 透過 ifconfig eth0 或 eth1 取得虛擬機的IP
-
-## ```ifconfig eth1```
+## ```sudo apt-get install ssh```
 ![](img/p1_2.png)
 
-### 4. 從本機開啟 putty 進入 Linux server
+### 3. 透過ifconfig eth0或eth1取得虛擬機的IP
 
+## ```ifconfig eth1```
+![](img/p1_3.png)
 
+### 4. 從本機開啟putty進入server，第一次會出現警告按ok即可
+![](img/p1_4.png)
 
+### 5. 登入後將v
