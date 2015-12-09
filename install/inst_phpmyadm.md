@@ -38,5 +38,6 @@
 ![](../img/inst_part2/part2_10.png)
 
 
-### 1. 安裝完成後，從本機開啟瀏覽器進入(虛擬機IP/phpmyadmin)，會出現Not Found
+### 1. 再次從本機開啟瀏覽器進入(虛擬機IP/phpmyadmin)
+
 ![](../img/inst_part2/part2_.png)
