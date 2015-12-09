@@ -1,4 +1,4 @@
-# **安裝lamp & phpmyadmin**
+# **安裝lamp-server**
 
 
 ### 1. 確認網路狀態
