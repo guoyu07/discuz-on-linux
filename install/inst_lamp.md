@@ -9,7 +9,6 @@
 ## ```sudo apt-get install ssh```
 
 ### 3. 透過ifconfig eth0或eth1取得虛擬機的IP
-
 ## ```ifconfig eth1```
 ![](../img/inst_part1/part1_2.png)
 
@@ -17,7 +16,6 @@
 ![](../img/inst_part1/part1_3.png)
 
 ### 5. 登入後將VirtualBox的虛擬視窗縮小，用putty操作比較方便
-
 ![](../img/inst_part1/part1_4.png)
 
 ### 6. 安裝lamp-server
