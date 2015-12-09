@@ -4,7 +4,7 @@
 ## ```sudo apt-get install phpmyadmin```
 ![](../img/inst_part2/part2_1.png)
 
-### 2. 選擇Apache2→Ok
+### 2. 選擇apache2→Ok
 ![](../img/inst_part2/part2_2.png)
 
 ### 3. 選擇Yes
