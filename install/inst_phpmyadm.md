@@ -45,7 +45,7 @@
 
 ###接著請跳下一章＞[安裝 Discuz](../install/inst_discuz.md)
 
-參考資料：
+####參考資料：
 
 [How to solve the phpmyadmin not found issue after upgrading php and apache?](http://askubuntu.com/questions/387062/how-to-solve-the-phpmyadmin-not-found-issue-after-upgrading-php-and-apache)
 
