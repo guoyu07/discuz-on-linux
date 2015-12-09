@@ -39,5 +39,5 @@
 
 
 ### 1. 再次從本機開啟瀏覽器進入(虛擬機IP/phpmyadmin)
-
+###（出現下圖代表phpmyadmin已安裝成功）
 ![](../img/inst_part2/part2_.png)
