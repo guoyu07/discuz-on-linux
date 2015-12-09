@@ -23,3 +23,8 @@
 
 ### 6. 安裝lamp
 ## ```sudo tasksel install lamp-server```
+
+### 7. 輸入Mysql的root密碼
+
+
+### 8. 再次輸入root的密碼
