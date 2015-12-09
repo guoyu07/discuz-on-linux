@@ -14,5 +14,7 @@
 
 ## ```ifconfig eth1```
 
-### 4. 從開啟 putty
+### 4. 從本機開啟 putty 進入 linux server
+
+
 
