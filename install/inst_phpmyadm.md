@@ -19,7 +19,7 @@
 ### 6. 最後再次輸入確認MySQL的root密碼
 ![](../img/inst_part2/part2_6.png)
 
-### 7. 安裝完成後，從本機開啟瀏覽器進入(虛擬機IP/phpmyadmin)，會出現404Not Found，因為apache沒有設定到，所以我們需要將phpmyadmin寫入apache的設定中
+### 7. 安裝完成後，從本機開啟chrome進入(虛擬機IP/phpmyadmin)，會出現404Not Found，因為apache沒有設定到，所以我們需要將phpmyadmin寫入apache的設定中
 ![](../img/inst_part2/part2_7.png)
 
 ### 8. 使用vim編輯器打開apache的設定檔
