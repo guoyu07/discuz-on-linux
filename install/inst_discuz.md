@@ -53,3 +53,5 @@
 ![](../img/inst_part3/part3_13.png)
 
 ### 16. 這時chrome的網址應該是進入你的虛擬ip，卻沒有進入網站而是顯示apache的畫面
+![](../img/inst_part1/part1_8.png)
+
