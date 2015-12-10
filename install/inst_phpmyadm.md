@@ -1,4 +1,4 @@
-# **安裝 phpmyadmin**
+# **<center>安裝 phpmyadmin<center>**
 
 ---
 
