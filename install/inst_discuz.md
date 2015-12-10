@@ -11,3 +11,6 @@
 ### 3. 安裝unzip（為了對zip壓縮檔解壓縮）
 ## ```sudo apt-get install unzip```
 ![](../img/inst_part3/part3_3.png)
+
+### 4. 解壓縮Discuz_X3.1_TC_UTF8.zip
+## ```sudo unzip Discuz_X3.1_TC_UTF8.zip```
