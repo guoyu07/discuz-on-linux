@@ -1,5 +1,6 @@
-# **安裝 lamp-server**
+# **<center>安裝 lamp-server</center>**
 
+---
 
 #### 1. 確認網路狀態（ping不到google請檢查網路設定）
 ### ```ping -c 3 www.google.com```
