@@ -36,7 +36,7 @@
 ![](../img/inst_part2/part2_10.png)
 
 
-### 11. 再次從本機開啟瀏覽器進入(虛擬機IP/phpmyadmin)
+### 11. 再次從本機開啟chrome進入(虛擬機IP/phpmyadmin)
 ###（出現下圖代表phpmyadmin已安裝成功）
 ![](../img/inst_part2/part2_11.png)
 
