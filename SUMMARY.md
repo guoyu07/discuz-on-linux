@@ -6,4 +6,4 @@
     * [安裝 phpmyadmin](install/inst_phpmyadm.md)
     * [安裝 Discuz](install/inst_discuz.md)
 * [備份](backup/README.md)
-    * [備份 SQL]
+    * [備份 SQL](backup/bkup_sql.md)
