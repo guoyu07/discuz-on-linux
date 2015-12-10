@@ -1,6 +1,8 @@
 # **<center>安裝 lamp-server</center>**
 
 ---
+<ol>
+    <li>
 
 #### 1. 確認網路狀態（ping不到google請檢查網路設定）
 ### ```ping -c 3 www.google.com```
@@ -34,5 +36,7 @@
 #### 10. 安裝完成後，從本機開啟chrome進入從(3.)取得的虛擬機的IP
 ####（出現下圖代表lamp已安裝成功）
 ![](../img/inst_part1/part1_8.png)
+
+</ol>
 
 ###接著請跳下一章＞安裝 phpmyadmin
