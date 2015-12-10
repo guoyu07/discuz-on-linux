@@ -1,3 +1,3 @@
-# **<center>架設Discuz論壇</center>**
+# **<center>安裝Discuz論壇</center>**
 
 ---
