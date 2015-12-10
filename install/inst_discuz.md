@@ -8,6 +8,6 @@
 ## ```ls```
 ![](../img/inst_part3/part3_2.png)
 
-### 3. 安裝unzip才可以對zip壓縮檔解壓縮
+### 3. 安裝unzip（為了對zip壓縮檔解壓縮）
 ## ```sudo apt-get install unzip```
 ![](../img/inst_part3/part3_3.png)
