@@ -22,5 +22,5 @@
 ### 6. 將upload資料夾內的所有檔案移動到伺服器的資料夾中
 ## ```sudo mv upload/* /var/www/html/```
 
-### 7. 回到本機chrome進入(虛擬機IP/install)就會看到Discuz安裝畫面(按同意)
+### 7. 回到本機chrome進入(虛擬機IP/install)就會看到Discuz安裝畫面(按我同意)
 ![](../img/inst_part3/part3_5.png)
