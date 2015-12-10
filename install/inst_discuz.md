@@ -63,8 +63,12 @@
 ### （如果出現下圖代表Discuz論壇已經安裝成功了！）
 ![](../img/inst_part3/part3_15.png)
 
-### 19. 最後登入管理者做最後的確認，帳號：admin、密碼：(13.輸入的管理者密碼)
+### 19. 安裝成功後要回到putty將安裝的程序刪除掉，否則其他人進入後也可以把你的論壇重新安裝！
+## ```sudo rm /var/www/html/install/index.php```
 ![](../img/inst_part3/part3_16.png)
+
+### 20. 最後登入管理者做最後的確認，帳號：admin、密碼：(13.輸入的管理者密碼)
+![](../img/inst_part3/part3_17.png)
 
 ## **以上就是在Linux中安裝Discuz的教學！**
 ## **Thanks for watching！**
