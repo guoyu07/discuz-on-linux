@@ -53,6 +53,7 @@
 ![](../img/inst_part3/part3_13.png)
 
 ### 16. 這時chrome的網址應該是進入你的虛擬機ip，卻沒有進入論壇而是顯示apache的畫面
+### （如果不是顯示底下畫面請從(18.)繼續往下）
 ![](../img/inst_part1/part1_8.png)
 
 ### 17. 因為預設第一順位是讓apache指定到index.html所以我們要修改他讓apache可以指定到論壇的頁面
