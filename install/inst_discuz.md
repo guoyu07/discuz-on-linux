@@ -56,4 +56,5 @@
 ![](../img/inst_part1/part1_8.png)
 
 ### 17. 因為預設第一順位是讓apache指定到index.html所以我們要修改他讓apache可以指定到論壇的頁面
-## ```mv /var/www/html/index.html /var/www/html/index~.html```
+## ```sudo mv /var/www/html/index.html /var/www/html/index~.html```
+![](../img/inst_part3/part3_14.png)
