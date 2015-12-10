@@ -16,6 +16,7 @@
 ## ```sudo unzip Discuz_X3.1_TC_UTF8.zip```
 
 ### 5. 再次查詢目前目錄底下應該多三個資料夾(readme、upload、utility)
+### （可以在自己本機端也下載一個Discuz_X3.1_TC_UTF8.zip比對內容比較清楚）
 ## ```ls```
 ![](../img/inst_part3/part3_4.png)
 
