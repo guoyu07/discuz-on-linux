@@ -20,7 +20,7 @@
 ![](../img/inst_part1/part1_4.png)
 
 1. 安裝lamp-server
-### ```sudo tasksel install lamp-server```
+#### ```sudo tasksel install lamp-server```
 
 1.. 輸入MySQL的root密碼（一定要記住）
 ![](../img/inst_part1/part1_5.png)
