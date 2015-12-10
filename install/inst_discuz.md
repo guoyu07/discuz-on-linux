@@ -27,3 +27,4 @@
 ![](../img/inst_part3/part3_5.png)
 
 ### 8. 接著會看到目錄文件權限不足所以需要回到putty將資料夾的權限打開才能繼續安裝
+![](../img/inst_part3/part3_6.png)
