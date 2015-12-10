@@ -14,3 +14,12 @@
 
 ### 4. 解壓縮Discuz_X3.1_TC_UTF8.zip
 ## ```sudo unzip Discuz_X3.1_TC_UTF8.zip```
+
+### 5. 再次查詢目前目錄底下應該多三個資料夾(readme、upload、utility)
+## ```ls```
+![](../img/inst_part3/part3_4.png)
+
+### 6. 將upload資料夾內的所有檔案移動到伺服器的資料夾中
+## ```sudo mv upload/* /var/www/html/```
+
+### 7. 回到本機chrome
