@@ -40,7 +40,7 @@
 ### 11. 重新整理本機的chrome應該所有狀態都呈現打勾，就能拉到底部按下一步了
 ![](../img/inst_part3/part3_9.png)
 
-### 12. 選擇全新安裝 Discuz! X (含 UCenter Server)→下一步
+### 12. 選擇全新安裝 Discuz! X (含 UCenter Server)按下一步
 ![](../img/inst_part3/part3_10.png)
 
 ### 13. 填寫數據庫信息的部分需要修改數據庫密碼(輸入MySQL的root密碼)，填寫管理員信息的部分需要輸入管理員密碼(這是Discuz論壇的管理員密碼請記好)、重複密碼(管理員密碼)，完成後按下一步
