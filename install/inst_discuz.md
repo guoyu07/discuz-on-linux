@@ -26,12 +26,24 @@
 ### 7. 回到本機chrome進入(虛擬機IP/install)就會看到Discuz安裝畫面(按我同意)
 ![](../img/inst_part3/part3_5.png)
 
-### 8. 接著如果看到目錄文件權限不足，就需要回到putty將資料夾的權限打開才能繼續安裝，沒有出現錯誤請從(1.)開始繼續
+### 8. 接著如果看到目錄文件權限不足，就需要回到putty將資料夾的權限打開才能繼續安裝，沒有出現錯誤請從(1.)繼續往下
 ![](../img/inst_part3/part3_6.png)
 
 ### 9. 先將目錄切換到伺服器的資料夾底下
 ## ```cd /var/www/html/```
+![](../img/inst_part3/part3_7.png)
 
+### 10. 修改以下幾個目錄的權限(config、data、uc_server/data/、uc_client/data/cache)
+## ```sudo chmod -R 777 config/ data/ uc_server/data/ uc_client/data/cache/```
+![](../img/inst_part3/part3_8.png)
 
+### 11. 重新整理本機的chrome應該所有狀態都呈現打勾，就能拉到底部按下一步了
+![](../img/inst_part3/part3_9.png)
 
+### 12. 選擇全新安裝 Discuz! X (含 UCenter Server) 下一步
+![](../img/inst_part3/part3_10.png)
 
+### 13. 填寫數據庫信息的部分需要修改數據庫密碼(輸入MySQL的root密碼)，填寫管理員信息的部分需要輸入管理員密碼、重複密碼(管理員密碼)，完成後按下一步
+![](../img/inst_part3/part3_11.png)
+
+### 
