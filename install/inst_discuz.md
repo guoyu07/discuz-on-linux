@@ -24,3 +24,5 @@
 
 ### 7. 回到本機chrome進入(虛擬機IP/install)就會看到Discuz安裝畫面(按我同意)
 ![](../img/inst_part3/part3_5.png)
+
+### 8. 
