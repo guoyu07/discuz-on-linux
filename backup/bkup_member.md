@@ -13,7 +13,10 @@
 ### ```sudo mkdir /var/www/html/bkup```
 ![](../img/bkup_part2/part2_2.png)
 
-#### 4. 接著把專門放人物頭像的目錄壓縮成zip放進bkup資料夾
+#### 4. 切換到專門放人物頭像的目錄
+### ```cd /var/www/html/uc_server/data/avatar/```
+
+#### 5. 接著把專門放人物頭像的目錄壓縮成zip放進bkup資料夾
 #### （記得用日期命名來管理備份內容，論壇愈大壓縮時間越長）
 ### ```sudo zip -r bkup/avatar151211.zip /var/www/html/uc_server/data/avatar```
-![](../img/bkup_part2/part2_3.png)
+![](../img/bkup_part2/part2_4.png)
