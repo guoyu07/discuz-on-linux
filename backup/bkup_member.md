@@ -15,4 +15,5 @@
 
 #### 4. 接著把專門放人物頭像的目錄壓縮成zip放進bkup資料夾
 #### （記得用日期命名來管理備份內容）
-### ```sudo zip -r /bkup/avatar151211.zip /var/www/html/uc_server/data/avatar```
+### ```sudo zip -r bkup/avatar151211.zip /var/www/html/uc_server/data/avatar```
+![](../img/bkup_part2/part2_3.png)
