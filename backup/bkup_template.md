@@ -13,7 +13,7 @@
 ### ```sudo mkdir /var/www/html/bkup```
 ![](../img/bkup_part2/part2_2.png)
 
-#### 4. 切換到專門放附件檔案的前一個目錄
+#### 4. 切換到專門放論壇樣版的前一個目錄
 ### ```cd /var/www/html/data/```
 ![](../img/bkup_part2/part3_1.png)
 
