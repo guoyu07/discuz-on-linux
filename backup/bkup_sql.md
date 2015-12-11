@@ -17,7 +17,7 @@
 #### 5. 接著Discuz會自動備份論壇中的大部分設定(不包含附件檔案、圖片等較大資料)
 ![](../img/bkup_part1/part1_5.png)
 
-#### 6. 完成後正常來說檔案會在/var/www/html/data/backup_99c73c/目錄底下
+#### 6. 完成後正常來說檔案會在/var/www/html/data/目錄底下
 ![](../img/bkup_part1/part1_6.png)
 
 #### 7. 這樣基本備份就完成了，需要還原請從【還原】選擇要還原的方式
