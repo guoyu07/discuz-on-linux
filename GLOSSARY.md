@@ -1,8 +1,6 @@
 # Glossary
 
 ## putty
-
-PuTTY包括了：
 <ol>
 <li>支援IPv6連線。
 <li>可以控制SSH連線時加密協定的種類。
@@ -12,6 +10,7 @@ PuTTY包括了：
 <li>完全模擬xterm、VT102及ECMA-48終端機的能力。
 <li>支援公鑰認證。
 </ol>
+By [wiki](https://zh.wikipedia.org/wiki/PuTTY)
 
 ## Ubuntu
 Ubuntu是眾多Linux發行版作業系統中的一種，由Canonical公司所維護、修改並發行。『Ubuntu』一辭源自南非一帶，其意義是『人道待人』或『樂於分享』。
