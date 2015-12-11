@@ -13,3 +13,7 @@
 ### ```mkdir bkup```
 ![](../img/bkup_part2/part2_2.png)
 
+#### 4. 接著把專門附件檔案的目錄壓縮成zip放進bkup資料夾
+#### （記得用日期命名來管理備份內容）
+### ```sudo zip -r bkup/attachment151211.zip /var/www/html/data/attachment/```
+![](../img/bkup_part2/part2_3.png)
