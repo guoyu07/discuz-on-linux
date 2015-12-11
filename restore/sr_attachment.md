@@ -25,7 +25,7 @@
 ### ```cd ../bkup```
 ![](../img/sr_part3/part3_4.png)
 
-#### 7. 解壓縮之前在【備份 後台設定】建立的attachment年月日.zip到data目錄底下
+#### 7. 解壓縮之前在【備份 附件檔案】建立的attachment年月日.zip到data目錄底下
 ### ```unzip attachment151211.zip -d ../data/```
 ![](../img/sr_part3/part3_5.png)
 
