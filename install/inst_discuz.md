@@ -70,11 +70,6 @@
 ### ```sudo rm /var/www/html/install/index.php```
 ![](../img/inst_part3/part3_16.png)
 
-#### 20. 將目錄切回最外層，將還原程序放進伺服器內
-### ```cd```
-### ```sudo mv utility/restore.php /var/www/html/data/```
-![](../img/inst_part3/part3_18.png)
-
 #### 21. 最後登入管理者做最後的確認，帳號：admin、密碼：(13.輸入的管理者密碼)
 ![](../img/inst_part3/part3_17.png)
 
