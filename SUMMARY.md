@@ -9,5 +9,5 @@
     * [備份 後台設定](backup/bkup_sql.md)
     * [備份 會員頭像](backup/bkup_member.md)
     * [備份 附件檔案](backup/bkup_uploadfile.md)
-    * [備份 模版](backup/bkup_template.md)
+    * [備份 論壇模版](backup/bkup_template.md)
 * [還原](restore/README.md)
