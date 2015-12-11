@@ -14,7 +14,7 @@
 
 
 #### 4. 修改attachment目錄名稱（不建議直接砍掉目錄，留著失敗了還能還原）
-### ```sudo mv attachment attachment~```
+### ```sudo mv template template~```
 
 
 #### 5. 確定attachment目錄名稱是否修改為attachment~了
