@@ -17,7 +17,7 @@
 ### ```sudo mv template template~```
 ![](../img/sr_part4/part4_2.png)
 
-#### 5. 確定attachment目錄名稱是否修改為attachment~了
+#### 5. 確定template目錄名稱是否修改為template~了
 ### ```ls```
 ![](../img/sr_part4/part4_3.png)
 
