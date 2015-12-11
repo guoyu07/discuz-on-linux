@@ -14,7 +14,7 @@
 ![](../img/bkup_part2/part2_2.png)
 
 #### 4. 切換到專門放論壇樣版的前一個目錄
-### ```cd /var/www/html/data/```
+### ```cd /var/www/html/```
 ![](../img/bkup_part2/part3_1.png)
 
 #### 5. 接著把專門附件檔案的目錄壓縮成zip放進bkup資料夾
