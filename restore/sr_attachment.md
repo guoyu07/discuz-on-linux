@@ -9,4 +9,21 @@
 ### ```cd /var/www/html/data/```
 ![](../img/bkup_part3/part3_1.png)
 
-#### 3. 
+#### 3. 確定一次data目錄底下是否有avatar這個目錄
+### ```ls```
+
+
+#### 4. 修改avatar目錄名稱（不建議直接砍掉目錄，留著失敗了還能還原）
+### ```sudo mv attachment attachment~```
+
+
+#### 5. 確定avatar目錄名稱是否修改為avatar~了
+### ```ls```
+
+
+#### 6. 切換到bkup目錄
+### ```cd ../../bkup```
+
+
+#### 7. 解壓縮之前在【備份 後台設定】建立的avatar年月日.zip到data目錄底下
+### ```unzip avatar151211.zip -d ../uc_server/data/```
