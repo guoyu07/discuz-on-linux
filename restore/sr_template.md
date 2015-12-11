@@ -25,7 +25,7 @@
 ### ```cd bkup/```
 ![](../img/sr_part4/part4_4.png)
 
-#### 7. 解壓縮之前在【備份 後台設定】建立的template年月日.zip到data目錄底下
+#### 7. 解壓縮之前在【備份 論壇模版】建立的template年月日.zip到data目錄底下
 ### ```sudo unzip template151211.zip -d ../```
 ![](../img/sr_part4/part4_5.png)
 
