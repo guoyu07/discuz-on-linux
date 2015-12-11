@@ -1,13 +1,13 @@
 # Glossary
 
 ## putty
-<li>支援IPv6連線。
-<li>可以控制SSH連線時加密協定的種類。
-<li>目前有3DES、AES、Blowfish、DES（不建議使用）及RC4。
-<li>CLI版本的SCP及SFTP Client，分別叫做pscp與psftp。
-<li>內建SSH Forwarding的功能，包括X11 Forwarding。
-<li>完全模擬xterm、VT102及ECMA-48終端機的能力。
-<li>支援公鑰認證。
+1. 支援IPv6連線。
+1. 可以控制SSH連線時加密協定的種類。
+1. 目前有3DES、AES、Blowfish、DES（不建議使用）及RC4。
+1. CLI版本的SCP及SFTP Client，分別叫做pscp與psftp。
+1. 內建SSH Forwarding的功能，包括X11 Forwarding。
+1. 完全模擬xterm、VT102及ECMA-48終端機的能力。
+1. 支援公鑰認證。
 
 By [wiki](https://zh.wikipedia.org/wiki/PuTTY)
 
