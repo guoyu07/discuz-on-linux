@@ -31,7 +31,7 @@
 #### 9. 等待安裝ing…
 ![](../img/inst_part1/part1_7.png)
 
-#### 10. 安裝完成後，從本機開啟chrome進入從(3.)取得的虛擬機的IP（出現下圖代表lamp已安裝成功）
+#### 10. 安裝完成後，從本機開啟chrome進入從（3.）取得的虛擬機的IP（出現下圖代表lamp已安裝成功）
 ![](../img/inst_part1/part1_8.png)
 
 ###接著請跳下一章＞安裝 phpmyadmin
