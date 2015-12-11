@@ -11,7 +11,7 @@
     * [備份 附件檔案](backup/bkup_uploadfile.md)
     * [備份 論壇模版](backup/bkup_template.md)
 * [還原](restore/README.md)
-    * [還原 後台設定](restore/sr_host.md)
+    * [還原 後台設定](restore/sr_sql.md)
     * 還原 會員頭像
     * 還原 附件檔案
     * 還原 論壇模版
