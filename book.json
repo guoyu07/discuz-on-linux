@@ -3,8 +3,8 @@
     "pluginsConfig": {
         "autocover": {
             {
-                "title": "My Book",
-                "author": "Author",
+                "title": "discuz-on-linux",
+                "author": "Yusung Hsu",
                 "font": {
                     "size": null,
                     "family": "Impact",
