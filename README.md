@@ -8,7 +8,7 @@
 |Discuz|X3.1_TC_UTF8|
 
 
-# **使用工具**
+# **<center>使用工具**
 
 ### 1. putty（為了從外部 Windows 連進 server）
 
