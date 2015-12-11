@@ -29,3 +29,4 @@
 
 #### 9. 刪除還原程序
 ### ```sudo rm -rf /var/www/html/data/restore.php```
+![](../img/sr_part1/part1_5.png)
