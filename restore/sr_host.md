@@ -26,3 +26,6 @@
 
 #### 8. 完成導入
 ![](../img/sr_part1/part1_4.png)
+
+#### 9. 刪除還原程序
+### ```sudo rm -rf /var/www/html/data/restore.php```
