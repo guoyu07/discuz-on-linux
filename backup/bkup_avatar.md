@@ -22,4 +22,4 @@
 ### ```sudo zip -r ../../bkup/avatar151211.zip avatar/*```
 ![](../img/bkup_part2/part2_4.png)
 
-#### 6. 之後需要還原會員頭像時只要把這個zip解壓縮替換到./uc_server/data/就可以了！
+#### 6. 需要還原請從【還原 人物頭像】參考還原的方式
