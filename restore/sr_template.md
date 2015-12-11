@@ -29,7 +29,7 @@
 ### ```sudo unzip template151211.zip -d ../```
 ![](../img/sr_part4/part4_5.png)
 
-#### 8. 重新整理論壇，附件檔案應該可以下載了！
+#### 8. 重新整理論壇，至管理員的管理中心/風格管理應該可以看到還原的樣版了！
 
-### **<center>以上就是在Linux中安裝Discuz的教學！**
+### **<center>以上就是在Linux中還原Discuz的教學！**
 ### **<center>Thanks for watching！**
