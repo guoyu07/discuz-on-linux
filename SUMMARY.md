@@ -2,16 +2,17 @@
 
 * [安裝環境與工具](README.md)
 * [安裝](install/README.md)
-    * [安裝 lamp-server](install/inst_lamp.md)
-    * [安裝 phpmyadmin](install/inst_phpmyadm.md)
-    * [安裝 Discuz](install/inst_discuz.md)
+   * [安裝 lamp-server](install/inst_lamp.md)
+   * [安裝 phpmyadmin](install/inst_phpmyadm.md)
+   * [安裝 Discuz](install/inst_discuz.md)
 * [備份](backup/README.md)
-    * [備份 後台設定](backup/bkup_sql.md)
-    * [備份 會員頭像](backup/bkup_avatar.md)
-    * [備份 附件檔案](backup/bkup_attachment.md)
-    * [備份 論壇模版](backup/bkup_template.md)
+   * [備份 後台設定](backup/bkup_sql.md)
+   * [備份 會員頭像](backup/bkup_avatar.md)
+   * [備份 附件檔案](backup/bkup_attachment.md)
+   * [備份 論壇模版](backup/bkup_template.md)
 * [還原](restore/README.md)
-    * [還原 後台設定](restore/sr_sql.md)
-    * [還原 會員頭像](restore/sr_avatar.md)
-    * 還原 附件檔案
-    * 還原 論壇模版
+   * [還原 後台設定](restore/sr_sql.md)
+   * [還原 會員頭像](restore/sr_avatar.md)
+   * 還原 附件檔案
+   * 還原 論壇模版
+
