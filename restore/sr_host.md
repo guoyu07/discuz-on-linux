@@ -2,6 +2,11 @@
 
 ---
 
-#### 1. 使用putty登入伺服器(已完成請往下一步)
-![](../img/inst_part1/part1_4.png)
+#### 1. 登入管理者admin帳號右上角進入【管理中心】
+![](../img/bkup_part1/part1_1.png)
 
+#### 2. 上排分類中選擇【站長】
+![](../img/bkup_part1/part1_2.png)
+
+#### 3. 左排功能中選擇【數據庫】
+![](../img/bkup_part1/part1_3.png)
