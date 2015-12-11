@@ -9,7 +9,7 @@
 ### ```sudo mv utility/restore.php /var/www/html/data/```
 ![](../img/sr_part1/part1_1.png)
 
-#### 3. 登入管理者admin帳號右上角進入【管理中心】
+#### 3. 從本機chrome登入管理者admin帳號右上角進入【管理中心】
 ![](../img/bkup_part1/part1_1.png)
 
 #### 4. 上排分類中選擇【站長】
