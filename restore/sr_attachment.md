@@ -13,11 +13,11 @@
 ### ```ls```
 
 
-#### 4. 修改avatar目錄名稱（不建議直接砍掉目錄，留著失敗了還能還原）
+#### 4. 修改attachment目錄名稱（不建議直接砍掉目錄，留著失敗了還能還原）
 ### ```sudo mv attachment attachment~```
 
 
-#### 5. 確定avatar目錄名稱是否修改為avatar~了
+#### 5. 確定attachment目錄名稱是否修改為attachment~了
 ### ```ls```
 
 
