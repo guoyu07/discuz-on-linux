@@ -73,5 +73,5 @@
 #### 20. 最後登入管理者做最後的確認，帳號：admin、密碼：（13.輸入的管理者密碼）
 ![](../img/inst_part3/part3_17.png)
 
-### **<center>以上就是在Linux中安裝Discuz的教學！</center>**
-### **<center>Thanks for watching！</center>**
+### **<center>以上就是在Linux中安裝Discuz的教學！**
+### **<center>Thanks for watching！**
