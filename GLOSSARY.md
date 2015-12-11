@@ -1,16 +1,5 @@
 # Glossary
 
-## putty
-
-<ul><li>支援IPv6連線。
-<ul><li>可以控制SSH連線時加密協定的種類。
-<ul><li>CLI版本的SCP及SFTP Client，分別叫做pscp與psftp。
-<ul><li>內建SSH Forwarding的功能，包括X11 Forwarding。
-<ul><li>完全模擬xterm、VT102及ECMA-48終端機的能力。
-<ul><li>支援公鑰認證。
-
-By [wiki](https://zh.wikipedia.org/wiki/PuTTY)
-
 ## Ubuntu
 Ubuntu是眾多Linux發行版作業系統中的一種，由Canonical公司所維護、修改並發行。『Ubuntu』一辭源自南非一帶，其意義是『人道待人』或『樂於分享』。
 By [Ubuntu.tw.org](http://wiki.ubuntu-tw.org/index.php?title=Ubuntu)
