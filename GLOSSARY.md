@@ -2,7 +2,16 @@
 
 ## putty
 
-http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+PuTTY包括了：
+<ol>
+<li>支援IPv6連線。
+<li>可以控制SSH連線時加密協定的種類。
+<li>目前有3DES、AES、Blowfish、DES（不建議使用）及RC4。
+<li>CLI版本的SCP及SFTP Client，分別叫做pscp與psftp。
+<li>內建SSH Forwarding的功能，包括X11 Forwarding。
+<li>完全模擬xterm、VT102及ECMA-48終端機的能力。
+<li>支援公鑰認證。
+</ol>
 
 ## Ubuntu
 Ubuntu是眾多Linux發行版作業系統中的一種，由Canonical公司所維護、修改並發行。『Ubuntu』一辭源自南非一帶，其意義是『人道待人』或『樂於分享』。
