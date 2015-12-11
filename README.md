@@ -12,8 +12,8 @@
 
 # **<center>使用工具**
 
-<ol>
-<font size="4"><li>putty（為了從外部 Windows 連進 server）
+<ol><font size="4">
+<li>putty（為了從外部 Windows 連進 server）
 <li>pscp（Windows 與 Linux 間檔案傳輸）
 <li>Google Chrome 瀏覽器
-</ol>
+</font></ol>
