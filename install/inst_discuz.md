@@ -17,7 +17,7 @@
 #### 4. 解壓縮Discuz_X3.1_TC_UTF8.zip
 ### ```sudo unzip Discuz_X3.1_TC_UTF8.zip```
 
-#### 5. 再次查詢目前目錄底下應該多三個資料夾(readme、upload、utility)
+#### 5. 再次查詢目前目錄底下應該多三個資料夾（readme、upload、utility）
 #### （可以在自己本機端也下載一個Discuz_X3.1_TC_UTF8.zip比對內容比較清楚）
 ### ```ls```
 ![](../img/inst_part3/part3_4.png)
@@ -25,7 +25,7 @@
 #### 6. 將upload資料夾內的所有檔案移動到伺服器的資料夾中
 ### ```sudo mv upload/* /var/www/html/```
 
-#### 7. 回到本機chrome進入(虛擬機IP/install)就會看到Discuz安裝畫面(按我同意)
+#### 7. 回到本機chrome進入（虛擬機IP/install）就會看到Discuz安裝畫面(按我同意)
 ![](../img/inst_part3/part3_5.png)
 
 #### 8. 接著如果看到目錄文件權限不足，就需要回到putty將資料夾的權限打開才能繼續安裝，沒有出現錯誤請從(12.)繼續往下
