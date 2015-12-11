@@ -13,13 +13,13 @@
 ### ```sudo mkdir /var/www/html/bkup```
 ![](../img/bkup_part2/part2_2.png)
 
-#### 4. 切換到專門放人物頭像的目錄
-### ```cd /var/www/html/uc_server/data/avatar/```
+#### 4. 切換到專門放人物頭像的前一個目錄
+### ```cd /var/www/html/uc_server/data/```
 ![](../img/bkup_part2/part2_3.png)
 
 #### 5. 接著把專門放人物頭像的目錄壓縮成zip放進bkup資料夾
 #### （記得用日期命名來管理備份內容，論壇愈大壓縮時間越長）
-### ```sudo zip -r ../../../bkup/avatar15-12-11.zip *```
+### ```sudo zip -r ../../../bkup/avatar15-12-11.zip avatar/*```
 ![](../img/bkup_part2/part2_4.png)
 
 #### 6. 之後需要還原會員頭像時只要把這個zip解壓縮替換到./uc_server/data/avatar/就可以了！
