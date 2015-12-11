@@ -1,7 +1,6 @@
 # Glossary
 
 ## putty
-<ol>
 <li>支援IPv6連線。
 <li>可以控制SSH連線時加密協定的種類。
 <li>目前有3DES、AES、Blowfish、DES（不建議使用）及RC4。
