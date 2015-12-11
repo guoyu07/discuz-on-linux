@@ -11,3 +11,5 @@
 #### 3. 左排功能中選擇【數據庫】
 ![](../img/bkup_part1/part1_3.png)
 
+#### 4. 進入數據庫的頁面後選擇第一個【Discuz! 和 UCenter 數據】按下提交
+![](../img/bkup_part1/part1_4.png)
