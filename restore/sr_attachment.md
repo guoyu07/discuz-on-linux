@@ -9,3 +9,4 @@
 ### ```cd /var/www/html/data/```
 ![](../img/bkup_part3/part3_1.png)
 
+#### 3. 
