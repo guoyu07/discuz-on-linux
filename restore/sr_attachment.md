@@ -9,7 +9,7 @@
 ### ```cd /var/www/html/data/```
 ![](../img/bkup_part3/part3_1.png)
 
-#### 3. 確定一次data目錄底下是否有attachment這個目錄
+#### 3. 確定一次目錄底下是否有attachment這個目錄
 ### ```ls```
 ![](../img/sr_part3/part3_1.png)
 
