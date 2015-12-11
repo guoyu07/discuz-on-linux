@@ -7,4 +7,5 @@
 </font>
 
 ####參考資料：
-如何備份Discuz!論壇?
+
+[如何備份Discuz!論壇?](http://www.sclub.com.tw/discuz/viewthread.php?tid=26987)
