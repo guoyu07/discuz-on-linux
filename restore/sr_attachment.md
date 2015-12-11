@@ -6,4 +6,4 @@
 ![](../img/inst_part1/part1_4.png)
 
 #### 2. 切換到專門放附件檔案的前一個目錄
-### ```cd /var/www/html/```
+### ```cd /var/www/html/data/a```
