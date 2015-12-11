@@ -7,3 +7,4 @@
 
 #### 2. 切換到專門放附件檔案的前一個目錄
 ### ```cd /var/www/html/data/```
+![](../img/bkup_part3/part3_1.png)
