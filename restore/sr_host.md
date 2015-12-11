@@ -6,7 +6,7 @@
 ![](../img/inst_part1/part1_4.png)
 
 #### 2. 將還原程序放入/var/www/html/data/中
-sudo mv utility/restore.php /var/www/html/data/
+### ```sudo mv utility/restore.php /var/www/html/data/```
 
 #### 2. 登入管理者admin帳號右上角進入【管理中心】
 ![](../img/bkup_part1/part1_1.png)
