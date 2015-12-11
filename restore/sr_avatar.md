@@ -25,7 +25,7 @@
 ### ```cd ../../bkup```
 ![](../img/sr_part2/part2_5.png)
 
-#### 7. 解壓縮之前在【備份 後台設定】建立的avatar年月日.zip到data目錄底下
+#### 7. 解壓縮之前在【備份 會員頭像】建立的avatar年月日.zip到data目錄底下
 ### ```unzip avatar151211.zip -d ../uc_server/data/```
 ![](../img/sr_part2/part2_6.png)
 
