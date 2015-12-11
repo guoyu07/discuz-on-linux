@@ -6,7 +6,7 @@
 ![](../img/inst_part1/part1_4.png)
 
 #### 2. 切換到專門放附件檔案的前一個目錄
-### ```cd /var/www/html/data/```
+### ```cd /var/www/html/```
 ![](../img/bkup_part3/part3_1.png)
 
 #### 3. 確定一次data目錄底下是否有avatar這個目錄
