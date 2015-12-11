@@ -4,7 +4,6 @@
 
 <ul><li>支援IPv6連線。
 <ul><li>可以控制SSH連線時加密協定的種類。
-<ul><li>目前有3DES、AES、Blowfish、DES（不建議使用）及RC4。
 <ul><li>CLI版本的SCP及SFTP Client，分別叫做pscp與psftp。
 <ul><li>內建SSH Forwarding的功能，包括X11 Forwarding。
 <ul><li>完全模擬xterm、VT102及ECMA-48終端機的能力。
