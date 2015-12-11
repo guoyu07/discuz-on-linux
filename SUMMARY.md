@@ -11,5 +11,5 @@
     * [備份 附件檔案](backup/bkup_uploadfile.md)
     * [備份 論壇模版](backup/bkup_template.md)
 * [還原](restore/README.md)
-    * [還原 本機]
+    * [還原 本機](restore/sr_host.md)
     * [還原 移植]
