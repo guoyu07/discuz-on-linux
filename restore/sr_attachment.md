@@ -11,7 +11,7 @@
 
 #### 3. 確定一次data目錄底下是否有avatar這個目錄
 ### ```ls```
-
+![](../img/sr_part3/part3_1.png)
 
 #### 4. 修改attachment目錄名稱（不建議直接砍掉目錄，留著失敗了還能還原）
 ### ```sudo mv attachment attachment~```
