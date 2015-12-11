@@ -1,3 +1,3 @@
-# **<center>還原Discuz論壇</center>**
+# **<center>還原Discuz論壇**
 
 ---
