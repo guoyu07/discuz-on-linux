@@ -1,4 +1,4 @@
-# **<center>安裝 Discuz</center>**
+# **<center>安裝 Discuz**
 
 ---
 
