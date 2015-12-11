@@ -11,6 +11,7 @@
 
 #### 3. 安裝zip
 ### ```sudo apt-get install zip```
+![](../img/bkup_part2/part2_2.png)
 
 #### 4. 接著把專門放人物頭像的目錄壓縮成zip放進bkup資料夾
 #### （記得用日期命名來管理備份內容）
