@@ -30,3 +30,5 @@
 #### 9. 刪除還原程序
 ### ```sudo rm -rf /var/www/html/data/restore.php```
 ![](../img/sr_part1/part1_5.png)
+
+#### 10. 重新整理，論壇中的後台設定應該恢復了！
