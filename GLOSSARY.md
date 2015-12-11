@@ -13,5 +13,6 @@ http://www.ubuntu-tw.org/modules/tinyd0/
 https://www.virtualbox.org/wiki/Downloads
 
 ## Discuz
-
-http://www.discuz.net/forum-10-1.html
+Discuz!是個可免費下載的PHP網路論壇程式，簡稱DZ。
+現在Discuz!已成為大中華地區最多用戶使用的論壇程式。
+http://www.discuz.net/
