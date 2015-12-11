@@ -9,7 +9,7 @@
 <li>內建SSH Forwarding的功能，包括X11 Forwarding。
 <li>完全模擬xterm、VT102及ECMA-48終端機的能力。
 <li>支援公鑰認證。
-</ol>
+
 By [wiki](https://zh.wikipedia.org/wiki/PuTTY)
 
 ## Ubuntu
