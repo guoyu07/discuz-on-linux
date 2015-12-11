@@ -22,11 +22,11 @@
 
 
 #### 6. 切換到bkup目錄
-### ```cd ../bkup```
+### ```cd bkup/```
 
 
-#### 7. 解壓縮之前在【備份 後台設定】建立的attachment年月日.zip到data目錄底下
-### ```unzip attachment151211.zip -d ../data/```
+#### 7. 解壓縮之前在【備份 後台設定】建立的template年月日.zip到data目錄底下
+### ```unzip template151211.zip -d ../data/```
 
 
 #### 8. 重新整理論壇，附件檔案應該可以下載了！
