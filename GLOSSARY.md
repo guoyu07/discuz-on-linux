@@ -4,9 +4,11 @@
 
 http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 
-## ubuntu
-
-http://www.ubuntu-tw.org/modules/tinyd0/
+## Ubuntu
+Ubuntu是眾多Linux發行版作業系統中的一種，由Canonical公司所維護、修改並發行。『Ubuntu』一辭源自南非一帶，其意義是『人道待人』或『樂於分享』。
+By [Ubuntu.tw.org](http://wiki.ubuntu-tw.org/index.php?title=Ubuntu)
+目前維基百科的網站伺服器，也是採用Ubuntu Linux。
+By [wiki](https://zh.wikipedia.org/wiki/Ubuntu)
 
 ## VirtualBox
 
