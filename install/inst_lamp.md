@@ -1,4 +1,4 @@
-# **<center>安裝 lamp-server</center>**
+# **<center>安裝 lamp-server**
 
 ---
 
