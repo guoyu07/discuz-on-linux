@@ -21,3 +21,5 @@
 #### （記得用日期命名來管理備份內容，論壇愈大壓縮時間越長）
 ### ```sudo zip -r ../bkup/attachment151211.zip attachment/*```
 ![](../img/bkup_part3/part3_2.png)
+
+#### 6. 之後需要還原附件檔案時只要把這個zip解壓縮替換到./data/就可以了！
