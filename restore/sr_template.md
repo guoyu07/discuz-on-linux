@@ -30,3 +30,6 @@
 ![](../img/sr_part4/part4_5.png)
 
 #### 8. 重新整理論壇，附件檔案應該可以下載了！
+
+### **<center>以上就是在Linux中安裝Discuz的教學！**
+### **<center>Thanks for watching！**
