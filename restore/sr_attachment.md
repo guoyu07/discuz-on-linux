@@ -28,3 +28,5 @@
 #### 7. 解壓縮之前在【備份 後台設定】建立的attachment年月日.zip到data目錄底下
 ### ```unzip attachment151211.zip -d ../data/```
 ![](../img/sr_part3/part3_5.png)
+
+#### 8. 重新整理論壇，附件檔案應該可以下載了！
