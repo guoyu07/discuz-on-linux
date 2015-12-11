@@ -1,9 +1,5 @@
 # Glossary
 
-## pscp
-
-http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
-
 ## putty
 
 http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
