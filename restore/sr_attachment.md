@@ -26,4 +26,4 @@
 
 
 #### 7. 解壓縮之前在【備份 後台設定】建立的attachment年月日.zip到data目錄底下
-### ```unzip attachment151211.zip -d ../uc_server/data/```
+### ```unzip attachment151211.zip -d ../data/```
