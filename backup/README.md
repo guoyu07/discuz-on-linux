@@ -1,3 +1,3 @@
-# **<center>備份Discuz論壇</center>**
+# **<center>備份Discuz論壇**
 
 ---
