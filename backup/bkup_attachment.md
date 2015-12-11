@@ -22,4 +22,4 @@
 ### ```sudo zip -r ../bkup/attachment151211.zip attachment/*```
 ![](../img/bkup_part3/part3_2.png)
 
-#### 6. 之後需要還原附件檔案時只要把這個zip解壓縮替換到./data/就可以了！
+#### 6. 需要還原請從【還原 附件檔案】參考還原的方式
