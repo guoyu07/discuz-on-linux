@@ -9,7 +9,7 @@
 ### ```cd /var/www/html/uc_server/data/```
 ![](../img/sr_part2/part2_1.png)
 
-#### 3. 確定一次data目錄底下是否有avatar這個目錄
+#### 3. 確定一次目錄底下是否有avatar這個目錄
 ### ```ls```
 ![](../img/sr_part2/part2_2.png)
 
