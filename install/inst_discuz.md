@@ -62,7 +62,7 @@
 ### ```sudo mv /var/www/html/index.html /var/www/html/index~.html```
 ![](../img/inst_part3/part3_14.png)
 
-#### 18. 回到本機chrome進入(虛擬機IP)
+#### 18. 回到本機chrome進入（虛擬機IP）
 #### （如果出現下圖代表Discuz論壇已經安裝成功了！）
 ![](../img/inst_part3/part3_15.png)
 
