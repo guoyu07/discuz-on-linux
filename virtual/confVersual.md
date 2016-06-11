@@ -3,7 +3,7 @@
 ---
 
 <ol><h4>
-  <li>點選剛剛建立好的discuz虛擬機<font color='green'>右鍵</font>，點選<font color='green'>設定值</font>
+  <li>點選剛剛建立好的discuz虛擬機【右鍵】，點選【設定值】
   <br><img src='../img/virtual/part2_1.png'>
   <li>點選【系統】，調整開機順序如下圖
   <br><img src='../img/virtual/part2_2.png'>
