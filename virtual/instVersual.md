@@ -1,4 +1,4 @@
-# **<center>安裝 Linux**
+# **<center>安裝 Ubuntu Server**
 
 ---
 
