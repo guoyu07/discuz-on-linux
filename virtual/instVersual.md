@@ -73,11 +73,11 @@
   <br><img src='../img/virtual_part3/part3_34.png'>
   <li>再次開啟discuz虛擬機即可看到登入畫面
     <ul>
-      <li>ubuntu login：
-      <li>
+      <li>ubuntu login：本測試使用【hsu】(12)
+      <li>password：本測試使用【a0128338】(13)
     </ul>
   <br><img src='../img/virtual_part3/part3_35.png'>
-  <li>輸入
+  <li>輸入成功就能登入ubuntu server了！
   <br><img src='../img/virtual_part3/part3_36.png'>  
 </h4></ol>
 
