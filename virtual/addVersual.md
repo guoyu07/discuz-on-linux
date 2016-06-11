@@ -28,6 +28,6 @@
   <br><img src='../img/virtual/part1_9.png'>
   <li>新增底下清單應該會多一個虛擬機名為discuz
   <br><img src='../img/virtual/part1_10.png'>
-</font></ol>
+</h4></ol>
 
 ###接著請跳下一章＞虛擬機設定
