@@ -1,7 +1,7 @@
 # Summary
 
 * [安裝環境與工具](README.md)
-* [虛擬機建置](virtual/README.md.md)
+* [虛擬機建置](virtual/README.md)
   * [虛擬機建立](virtual/addVersual.md)
   * [虛擬機設定](virtual/confVersual.md)
   * [安裝 Linux](virtual/instVersual.md)
