@@ -4,6 +4,7 @@
 * [虛擬機建置](virtual/README.md.md)
   * [虛擬機建立](virtual/addVersual.md)
   * [虛擬機設定](virtual/confVersual.md)
+  * [安裝Linux](virtual/instVersual.md)
 * [安裝](install/README.md)
    * [安裝 lamp-server](install/inst_lamp.md)
    * [安裝 phpmyadmin](install/inst_phpmyadm.md)
