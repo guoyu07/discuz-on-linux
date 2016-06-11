@@ -14,11 +14,11 @@
     <br><img src='../img/versual/part1_2.png'>
   <li>選擇要給需擬機的記憶體大小，建議2048MB
   <br><img src='../img/versual/part1_3.png'>
-  <li>選擇立即建立虛擬硬碟
+  <li>選擇【立即建立虛擬硬碟】
   <br><img src='../img/versual/part1_4.png'>
-  <li>
+  <li>選擇【VDI(VirtualBox 磁碟映像)】
   <br><img src='../img/versual/part1_5.png'>
-  <li>
+  <li>選擇【】
   <br><img src='../img/versual/part1_6.png'>
   <li>
   <br><img src='../img/versual/part1_7.png'>
