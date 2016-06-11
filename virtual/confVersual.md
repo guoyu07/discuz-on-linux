@@ -13,7 +13,7 @@
   <br><img src='../img/virtual/part2_4.png'>
   <li>檢查檔案是否已經匯入
   <br><img src='../img/virtual/part2_5.png'>
-  <li>點選【網路】，附加到：選擇【橋接界面卡】，按下確認完成設定
+  <li>點選【網路】，附加到：選擇【橋接界面卡】，按下【確認】完成設定
   <br><img src='../img/virtual/part2_6.png'>
 </h4></ol>
 
