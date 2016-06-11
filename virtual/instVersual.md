@@ -5,32 +5,32 @@
 <ol><h4>
   <li>點選【虛擬機建立】建立的虛擬機，啟動
   <br><img src='../img/virtual/part3_.png'>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
+  <li>選擇系統語言，按【Enter】
+  <li>選擇Install Ubuntu Server，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
+  <li>，按【Enter】
 </h4></ol>
 
 
