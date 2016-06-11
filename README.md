@@ -16,16 +16,3 @@
 <li>putty（為了從外部 Windows 連進 server）
 <li>Google Chrome 瀏覽器
 </font></ol>
-
-
-# **<center>新增虛擬機**
-
-
-
-
-# **<center>設定虛擬機**
-
-<ol><font size="4">
-<li>
-<li>
-</font></ol>
