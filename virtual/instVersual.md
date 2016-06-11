@@ -4,6 +4,7 @@
 
 <ol><h4>
   <li>點選【虛擬機建立】建立的虛擬機，啟動
+  <br><img src='../img/virtual/part3_.png'>
   <li>
   <li>
   <li>
