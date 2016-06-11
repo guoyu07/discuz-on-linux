@@ -14,10 +14,18 @@
     <br><img src='../img/versual/part1_2.png'>
   <li>選擇要給需擬機的記憶體大小，建議2048MB
   <br><img src='../img/versual/part1_3.png'>
+  <li>選擇立即建立虛擬硬碟
+  <br><img src='../img/versual/part1_4.png'>
   <li>
+  <br><img src='../img/versual/part1_5.png'>
   <li>
+  <br><img src='../img/versual/part1_6.png'>
   <li>
+  <br><img src='../img/versual/part1_7.png'>
   <li>
+  <br><img src='../img/versual/part1_8.png'>
   <li>
+  <br><img src='../img/versual/part1_9.png'>
   <li>
+  <br><img src='../img/versual/part1_10.png'>
 </font></ol>
