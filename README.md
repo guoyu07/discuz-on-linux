@@ -20,11 +20,7 @@
 
 # **<center>新增虛擬機**
 
-<ol><font size="4">
-<li>開啟VirualBox，點選<font color='green'><b>新增</b></font>
-<br><img src='../img/index/part1_1.png'>
-<li>
-</font></ol>
+
 
 
 # **<center>設定虛擬機**
