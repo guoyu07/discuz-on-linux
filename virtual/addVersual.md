@@ -30,3 +30,4 @@
   <br><img src='../img/virtual/part1_10.png'>
 </font></ol>
 
+###接著請跳下一章＞虛擬機設定
