@@ -18,7 +18,7 @@
   <br><img src='../img/versual/part1_4.png'>
   <li>選擇【VDI(VirtualBox 磁碟映像)】
   <br><img src='../img/versual/part1_5.png'>
-  <li>選擇【】
+  <li>選擇【動態配置】
   <br><img src='../img/versual/part1_6.png'>
   <li>
   <br><img src='../img/versual/part1_7.png'>
