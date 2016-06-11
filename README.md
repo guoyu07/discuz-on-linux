@@ -22,6 +22,7 @@
 
 <ol><font size="4">
 <li>
+<img src='../img/index/part1_1.png'>
 <li>
 </font></ol>
 
