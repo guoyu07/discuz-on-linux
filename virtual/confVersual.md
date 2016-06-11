@@ -17,4 +17,4 @@
   <br><img src='../img/virtual/part2_6.png'>
 </h4></ol>
 
-###接著請跳下一章＞安裝
+###接著請跳下一章＞安裝 Linux
