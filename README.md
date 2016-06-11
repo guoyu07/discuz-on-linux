@@ -2,8 +2,8 @@
 
 | <b>測試環境|<b>版本|
 | -- | -- |
-|VirtualBox|5.0.10|
 |本機作業系統|Windows 7 家用進階版|
+|VirtualBox|5.0.10|
 |虛擬機作業系統|ubuntu-14.04.3-server-amd64|
 |Discuz|X3.1_TC_UTF8|
 
