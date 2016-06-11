@@ -17,4 +17,4 @@
   <br><img src='../img/virtual_part2/part2_6.png'>
 </h4></ol>
 
-###接著請跳下一章＞安裝 Linux
+###接著請跳下一章＞安裝 Ubuntu Server
