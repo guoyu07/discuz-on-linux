@@ -2,7 +2,7 @@
 
 ---
 
-<ol><font size="10">
+<ol><h4>
   <li>開啟VirualBox，點選<font color='green'><b>新增</b></font>
   <br><img src='../img/virtual/part1_1.png'>
   <li>輸入要建立的虛擬機資訊，輸入完成後按下一步
