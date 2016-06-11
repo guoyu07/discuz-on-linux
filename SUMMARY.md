@@ -1,6 +1,9 @@
 # Summary
 
 * [安裝環境與工具](README.md)
+* [虛擬機建置](versual/README.md.md)
+  * [虛擬機建立](versual/addVersual.md)
+  * [虛擬機設定](versual/confVersual.md)
 * [安裝](install/README.md)
    * [安裝 lamp-server](install/inst_lamp.md)
    * [安裝 phpmyadmin](install/inst_phpmyadm.md)
