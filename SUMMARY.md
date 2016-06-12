@@ -19,4 +19,6 @@
    * [還原 會員頭像](restore/sr_avatar.md)
    * [還原 附件檔案](restore/sr_attachment.md)
    * [還原 論壇模版](restore/sr_template.md)
+* [五、應用](application/README.md)
+   * [論壇Icon](application/icon.md)
 
