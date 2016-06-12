@@ -12,7 +12,14 @@
 
 # **<center>使用工具**
 
-<ol><font size="4">
-<li>putty（為了從外部 Windows 連進 server）
-<li>Google Chrome 瀏覽器
-</font></ol>
+<ol>
+  <li>putty（為了從外部 Windows 連進 server）
+  <li>Google Chrome 瀏覽器
+</ol>
+
+# **<center>章節**
+
+<ol>
+  <li>虛擬機建置
+  <li>
+</ol>
