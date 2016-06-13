@@ -13,6 +13,15 @@
   <br><img src='../img/app_part1/part1_4.png'>
   <li>點選SEO設置中的【其它】
   <br><img src='../img/app_part1/part1_5.png'>
-  <li>在【其他頭部信息】中輸入以下代碼，【圖片位置則寫上伺服器中圖片與index.php的相對位置】 
+  <li>在【其他頭部信息】中輸入以下代碼，【圖片位置】則寫上伺服器中圖片與index.php的相對位置 
+    <ul>
+      <li><link rel="icon" href="圖片位置" type="image/x-icon" />
+      <li><link rel="bookmark" href="圖片位置" type="image/x-icon" />
+      <li><link rel="shortcut icon" href="圖片位置" type="image/x-icon" />
+    </ul>
   <br><img src='../img/app_part1/part1_6.png'>
 </h4></ol>
+
+
+
+
