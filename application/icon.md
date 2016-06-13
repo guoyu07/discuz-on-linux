@@ -7,7 +7,7 @@
   <br><img src='../img/app_part1/part1_1.png'>
   <li>在管理中心登入頁輸入管理員密碼
   <br><img src='../img/app_part1/part1_2.png'>
-  <li>右邊有個搜尋輸入框，輸入【其他頭部信息】，按搜索
+  <li>右邊有個搜尋輸入框，輸入【其他頭部信息】，按【搜索】
   <br><img src='../img/app_part1/part1_3.png'>
   <li>在搜索結果中點選【搜索引擎優化】
   <br><img src='../img/app_part1/part1_4.png'>
