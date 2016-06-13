@@ -5,7 +5,7 @@
 <ol><h4>
   <li>以管理員身份登入，點選【管理中心】
   <br><img src='../img/app_part1/part1_1.png'>
-  <li>在管理中心登入頁輸入管理員密碼
+  <li>在管理中心登入頁輸入管理員密碼，按【提交】
   <br><img src='../img/app_part1/part1_2.png'>
   <li>右邊有個搜尋輸入框，輸入【其他頭部信息】，按【搜索】
   <br><img src='../img/app_part1/part1_3.png'>
