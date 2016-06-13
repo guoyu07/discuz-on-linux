@@ -14,8 +14,10 @@
   <br><img src='../img/app_part1/part1_5.png'>
 #### 6. 在【其他頭部信息】中輸入以下代碼，【圖片位置】則寫上伺服器中圖片與index.php的相對位置 
   
-```<link rel="icon" href="圖片位置" type="image/x-icon" />```<br>
-```<link rel="bookmark" href="圖片位置" type="image/x-icon" />```<br>
+```<link rel="icon" href="圖片位置" type="image/x-icon" />```
+
+```<link rel="bookmark" href="圖片位置" type="image/x-icon" />```
+
 ```<link rel="shortcut icon" href="圖片位置" type="image/x-icon" />```
 
   <br><img src='../img/app_part1/part1_6.png'>
